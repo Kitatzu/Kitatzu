@@ -1,5 +1,4 @@
 
-## Intro  
 <div align="center">
 <img src="https://res.cloudinary.com/debfwgutb/image/upload/v1675434666/BoxTech.png" align="center" style="width: 100%" />
 </div>  
