@@ -2,13 +2,13 @@
 
   
 
-### <div align="center">Hola! Soy Exequiel Rodríguez, FullStack Developer 😎</div>  
+### <div align="center">Hola! Soy Exequiel Rodríguez, FullStack Developer y Videogame Developer! 🕹️ </div>  
   
 
 
 
 ### ¿Quién Soy?  
-Soy un apasionado desarrollador web y de videojuegos con una sólida formación en programación y diseño. Mi objetivo principal es crear experiencias digitales únicas y cautivadoras para los usuarios. Me considero un solucionador de problemas creativo y un amante de la tecnología. Mi experiencia abarca desde la creación de sitios web interactivos y aplicaciones web hasta el desarrollo de videojuegos principalmente Indies.
+Soy un apasionado desarrollador web y de videojuegos con una sólida formación en programación. Mi objetivo principal es crear experiencias digitales únicas y cautivadoras para los usuarios. Me considero un solucionador de problemas creativo y un amante de la tecnología. Mi experiencia abarca desde la creación de sitios web interactivos y aplicaciones web hasta el desarrollo de videojuego
   
 
 
@@ -45,14 +45,16 @@ Soy un apasionado desarrollador web y de videojuegos con una sólida formación 
 ### Lenguajes  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /> </a>  
 </div>
-<div align="center">  
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
-    </a>  
-</div>
+</td><td valign="top" width="33%">
 
-</td></tr></table>  
+
+### Videogames  
+<div align="center">  
+<a href="https://unity.com/es" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a> 
+</div>
+</td></tr></table> 
 
 <br/>  
 
