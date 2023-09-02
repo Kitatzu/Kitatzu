@@ -2,14 +2,15 @@
 
   
 
-### <div align="center">Hola! Soy Exequiel Rodríguez, FullStack Developer y Videogame Developer! 🕹️ </div>  
+### <div align="center"> Hola, soy Exequiel Rodríguez, desarrollador FullStack y desarrollador de videojuegos 🕹️ 🕹️ </div>  
   
 
 
 
 ### ¿Quién Soy?  
-Soy un apasionado desarrollador web y de videojuegos con una sólida formación en programación. Mi objetivo principal es crear experiencias digitales únicas y cautivadoras para los usuarios. Me considero un solucionador de problemas creativo y un amante de la tecnología. Mi experiencia abarca desde la creación de sitios web interactivos y aplicaciones web hasta el desarrollo de videojuego
-  
+Mi experiencia y formación en programación me han permitido crear experiencias digitales únicas y cautivadoras para los usuarios. Me considero un solucionador de problemas creativo y un amante de la tecnología. Mi experiencia abarca desde la creación de sitios web interactivos y aplicaciones web hasta el emocionante mundo del desarrollo de videojuegos.
+
+Si tienes alguna pregunta o necesitas ayuda en cualquier área relacionada con la programación, el desarrollo web o de videojuegos, ¡no dudes en contactarme en los canales que figuran en mi perfil! Estoy para ayudarte en lo que necesites.
 
 
 ## Mis Habilidades 
