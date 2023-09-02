@@ -12,14 +12,6 @@ Soy un apasionado desarrollador web y de videojuegos con una sólida formación 
   
 
 
-
-###  
-Es el pequeño emprendimiento FreeLancer, en el que trabajamos mis compañeros Devs y yo, no dudes en contactarnos en mis canales personales que figuran mas abajo!  
-  
-
-<br/>  
-
-
 ## Mis Habilidades 
 <table><tr><td valign="top" width="33%">
 
@@ -64,14 +56,6 @@ Es el pequeño emprendimiento FreeLancer, en el que trabajamos mis compañeros D
 
 <br/>  
 
-### Motor Videojuegos
-<div align="center">  
-<a href="https://unity.com/es" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Contactame 
