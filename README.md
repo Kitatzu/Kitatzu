@@ -72,9 +72,6 @@ Si tienes alguna pregunta o necesitas ayuda en cualquier área relacionada con l
 <a href="https://www.linkedin.com/in/exequielmr/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt= "Linkedin" style="margin-bottom: 5px;" />
 </a>  
-<a href= "https://calendly.com/exequielmrodriguez" target="_blank">
-  <img src="https://logowik.com/content/uploads/images/t_calendly3400.logowik.com.webp" />
-</a>
 </div>  
   
 
