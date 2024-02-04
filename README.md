@@ -1,6 +1,7 @@
 <style>
   a {
-    text-decoration:none
+    text-decoration: none;
+  }
 </style>
 
 ### <div align="center"> Hola, soy Exequiel Rodríguez, desarrollador FullStack y desarrollador de videojuegos 🕹️ </div>
