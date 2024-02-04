@@ -71,12 +71,18 @@ Si tienes alguna pregunta o necesitas ayuda en cualquier área relacionada con l
 
 ## Contactame
 
-<div align="center">
-<a href="https://github.com/Kitatzu" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<div align="center" margin-right="20px">
+<a href="https://github.com/Kitatzu" target="_blank" style="margin-right: 10px;">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/exequielmr/" target="_blank">
+<a href="https://www.linkedin.com/in/exequielmr/" target="_blank" style="margin-right: 10px;">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt= "Linkedin" style="margin-bottom: 5px;" />
+</a>  
+<a href="https://exequiel-rodriguez.netlify.app/" target="_blank" style="margin-right: 10px;">
+<img src="https://img.shields.io/badge/portfolio-red?style=for-the-badge&logo=vercel" alt= "Portfolio" style="margin-bottom: 5px;" />
+</a>  
+<a href="https://calendly.com/exequielmrodriguez" target="_blank">
+<img src="https://img.shields.io/badge/calendly-blue?style=for-the-badge&logo=calendly" alt="Calendly" style="margin-bottom: 5px;" />
 </a>  
 </div>
 
