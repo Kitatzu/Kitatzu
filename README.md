@@ -1,8 +1,3 @@
-<style>
-  a {
-    text-decoration: none;
-  }
-</style>
 
 ### <div align="center"> Hola, soy Exequiel Rodríguez, desarrollador FullStack y desarrollador de videojuegos 🕹️ </div>
 
@@ -78,7 +73,7 @@ Si tienes alguna pregunta o necesitas ayuda en cualquier área relacionada con l
 ## Contactame
 
 <div align="center" margin-right="20px">
-<a href="https://github.com/Kitatzu" target="_blank" style="margin-right: 10px text-decoration:none;">
+<a href="https://github.com/Kitatzu" target="_blank" style="margin-right: 10px; text-decoration:none;">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/exequielmr/" target="_blank" style="margin-right: 10px text-decoration:none;">
