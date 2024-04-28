@@ -11,64 +11,38 @@ Si tienes alguna pregunta o necesitas ayuda en cualquier área relacionada con l
 
 ## Mis Habilidades
 
-<table align="center"><tr><td valign="top" width="33%">
-
-<div align="center">
-
 ### Frontend
 
+<div margin-right="20px">
+<a  target="_blank" style="margin-right: 10px; text-decoration:none;">
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,astro,redux" alt=github" style="margin-bottom: 5px;" />
+</a>
 </div>
-
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://nextjs.org/" target= "blank"><img style="margin: 10px" src= "https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next Js" height="50"/></a>
-<a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">
 
 ### Backend
 
+<div margin-right="20px">
+<a  target="_blank" style="margin-right: 10px; text-decoration:none;">
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sequelize,mongo,aws" alt=github" style="margin-bottom: 5px;" />
+</a>
 </div>
-
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">
 
 ### Lenguajes
 
+<div margin-right="20px">
+<a  target="_blank" style="margin-right: 10px; text-decoration:none;">
+<img src="https://skillicons.dev/icons?i=js,cs" alt=github" style="margin-bottom: 5px;" />
+</a>
 </div>
-
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /> </a>  
-</div>
-</td><td valign="top" width="33%">
-
-<div align="center">
 
 ### Videojuegos
 
+<div margin-right="20px">
+<a  target="_blank" style="margin-right: 10px; text-decoration:none;">
+<img src="https://skillicons.dev/icons?i=unity" alt=github" style="margin-bottom: 5px;" />
+</a>
 </div>
 
-<div align="center">  
-<a href="https://unity.com/es" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a> 
-</div>
-</td></tr></table>
-
-<br/>
 
 ## Contactame
 
@@ -89,7 +63,3 @@ Si tienes alguna pregunta o necesitas ayuda en cualquier área relacionada con l
 
 <br/>
 
-## Github Stats
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kitatzu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<br />
