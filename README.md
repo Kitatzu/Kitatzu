@@ -1,13 +1,19 @@
 
 ### <div align="center"> Hola, soy Exequiel Rodríguez, desarrollador FullStack y desarrollador de videojuegos 🕹️ </div>
 
-### ¿Quién Soy?
+### Un poco sobre mi...
 
-Hola! 👋 <br/>
-Soy de Buenos Aires, Argentina! 🧉
-Mi experiencia y formación en programación me han permitido crear experiencias digitales únicas y cautivadoras para los usuarios. Me considero un solucionador de problemas creativo y un amante de la tecnología. Mi experiencia abarca desde la creación de sitios web interactivos y aplicaciones web hasta el emocionante mundo del desarrollo de videojuegos.
+Hola! 👋🏻 </br>
+Me llamo Exequiel Maximiliano Rodríguez, desarrollador web FullStack con 2 años de experiencia en el mundo de la tecnología 💻
 
-Si tienes alguna pregunta o necesitas ayuda en cualquier área relacionada con la programación, el desarrollo web o de videojuegos, ¡no dudes en contactarme en los canales que figuran en mi perfil! Estoy para ayudarte en lo que necesites.
+Mi objetivo es colaborar con clientes y empresas para aportar mis capacidades como desarrollador y lograr que puedan cumplir sus objetivos y sueños.
+Poseo conocimientos en el desarrollo web con el lenguaje Javascript principalmente junto a una parte de su ecosistema como son los casos de NodeJs, Astro, NextJs y React. 
+
+Actualmente me desempeño como docente de Informática, donde las actividades que realizo potencian mi liderazgo y mi trabajo en equipo.
+
+Sin consideras que necesitas de mis servicios como desarrollador o precisas ayuda con algo del mundo de la programación no dudes en contactarme!
+
+
 
 ## Mis Habilidades
 
