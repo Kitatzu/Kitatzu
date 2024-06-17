@@ -21,7 +21,7 @@ Sin consideras que necesitas de mis servicios como desarrollador o precisas ayud
 
 <div margin-right="20px">
 <a  target="_blank" style="margin-right: 10px; text-decoration:none;">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,astro,redux,bootstrap" alt=github" style="margin-bottom: 5px;" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,astro,redux,bootstrap,tailwind" alt=github" style="margin-bottom: 5px;" />
 </a>
 </div>
 
@@ -37,7 +37,7 @@ Sin consideras que necesitas de mis servicios como desarrollador o precisas ayud
 
 <div margin-right="20px">
 <a  target="_blank" style="margin-right: 10px; text-decoration:none;">
-<img src="https://skillicons.dev/icons?i=js,cs" alt=github" style="margin-bottom: 5px;" />
+<img src="https://skillicons.dev/icons?i=js,ts,cs" alt=github" style="margin-bottom: 5px;" />
 </a>
 </div>
 
