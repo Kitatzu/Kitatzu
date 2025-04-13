@@ -59,8 +59,8 @@ Sin consideras que necesitas de mis servicios como desarrollador o precisas ayud
 <a href="https://www.linkedin.com/in/exequielmr/" target="_blank" style="margin-right: 10px; text-decoration:none;">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt= "Linkedin" style="margin-bottom: 5px;" />
 </a>  
-<a href="https://exequiel-rodriguez.netlify.app/" target="_blank" style="margin-right: 10px; text-decoration:none;">
-<img src="https://img.shields.io/badge/portfolio-red?style=for-the-badge&logo=vercel" alt= "Portfolio" style="margin-bottom: 5px;" />
+<a href="https://exequiel-dev.com" target="_blank" style="margin-right: 10px; text-decoration:none;">
+<img src="https://img.shields.io/badge/servicios-red?style=for-the-badge&logo=vercel" alt= "Mis servicios" style="margin-bottom: 5px;" />
 </a>  
 <a href="https://calendly.com/exequielmrodriguez" target="_blank" style="text-decoration:none;">
 <img src="https://img.shields.io/badge/calendly-blue?style=for-the-badge&logo=calendly" alt="Calendly" style="margin-bottom: 5px;" />
