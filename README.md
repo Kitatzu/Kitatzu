@@ -14,13 +14,13 @@ Hoy, en Appsnube, desarrollo soluciones sobre AWS integradas con Tiendanube.
 Automatizo procesos, reduzco tiempos y mejoro la experiencia de los usuarios.
 
 ¿En qué te puedo ayudar?
-✅ Desarrollo web Full Stack con TypeScript, React y Node
-✅ Optimización y escalabilidad en AWS
-✅ Aplicaciones limpias, rápidas y fáciles de mantener
+<ul>
+<li>✅ Desarrollo web Full Stack con TypeScript, React y Node</li>
+<li>✅ Optimización y escalabilidad en AWS</li>
+<li>✅ Aplicaciones limpias, rápidas y fáciles de mantener</li>
+</ul>
 
 Si buscás a alguien que entienda de código y también entienda las necesidades de tu negocio, escribime.
-
-
 
 ## Mis Habilidades
 
@@ -60,9 +60,6 @@ Si buscás a alguien que entienda de código y también entienda las necesidades
 ## Contactame
 
 <div align="center" margin-right="20px">
-<a href="https://github.com/Kitatzu" target="_blank" style="margin-right: 10px; text-decoration:none;">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github" style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.linkedin.com/in/exequielmr/" target="_blank" style="margin-right: 10px; text-decoration:none;">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt= "Linkedin" style="margin-bottom: 5px;" />
 </a>  
