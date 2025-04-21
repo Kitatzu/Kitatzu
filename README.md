@@ -3,15 +3,22 @@
 
 ### Un poco sobre mi...
 
-Hola! 👋🏻 </br>
-Me llamo Exequiel Maximiliano Rodríguez, desarrollador web FullStack con 2 años de experiencia en el mundo de la tecnología 💻
+Hola, soy Exequiel.
+Desarrollo webs rápidas, que escalan, y que no se rompen.
 
-Mi objetivo es colaborar con clientes y empresas para aportar mis capacidades como desarrollador y lograr que puedan cumplir sus objetivos y sueños.
-Poseo conocimientos en el desarrollo web con el lenguaje Javascript principalmente junto a una parte de su ecosistema como son los casos de NodeJs, Astro, NextJs y React. 
+Trabajo con TypeScript, React, Node.js y AWS.
+Y no me pierdo en tecnicismos: mi foco es que lo que hagas funcione, venda y te dé tranquilidad.
 
-Actualmente me desempeño como docente de Informática, donde las actividades que realizo potencian mi liderazgo y mi trabajo en equipo.
+Llevo 2 años ayudando a negocios a crecer con tecnología.
+Hoy, en Appsnube, desarrollo soluciones sobre AWS integradas con Tiendanube.
+Automatizo procesos, reduzco tiempos y mejoro la experiencia de los usuarios.
 
-Sin consideras que necesitas de mis servicios como desarrollador o precisas ayuda con algo del mundo de la programación no dudes en contactarme!
+¿En qué te puedo ayudar?
+✅ Desarrollo web Full Stack con TypeScript, React y Node
+✅ Optimización y escalabilidad en AWS
+✅ Aplicaciones limpias, rápidas y fáciles de mantener
+
+Si buscás a alguien que entienda de código y también entienda las necesidades de tu negocio, escribime.
 
 
 
