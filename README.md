@@ -1,4 +1,4 @@
-### <div align="center"> Hola, soy Exequiel Rodríguez, desarrollador FullStack y de videojuegos 🕹️ </div>
+### <div align="center"> Hola, soy Exequiel Rodríguez, desarrollador FullStack. </div>
 
 ### 🚀 Impacto y Resultados Técnicos
 En mis últimos proyectos me he enfocado en que la tecnología no solo funcione, sino que sea eficiente y rentable:
