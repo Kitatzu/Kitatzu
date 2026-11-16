@@ -4,7 +4,7 @@
 
 **Software Engineer · Node.js, TypeScript & AWS Serverless**
 
-Backend y fullstack con +3 años de experiencia construyendo arquitecturas orientadas a eventos, APIs y dashboards. Buenos Aires, Argentina.
+Backend y fullstack con +3 años de experiencia construyendo arquitecturas orientadas a eventos, APIs y dashboards.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-exequielmr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/exequielmr/)
 [![Email](https://img.shields.io/badge/Email-exequielmrodriguez@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:exequielmrodriguez@gmail.com)
@@ -39,4 +39,4 @@ TypeScript · Node.js · NestJS · AWS (Lambda, SQS, SNS, EventBridge, SAM) · D
 
 ## Más sobre mí
 
-Cursando la Tecnicatura en Programación en la UTN. Me gusta el código limpio, los sistemas que se pueden mantener y enseñar lo que sé (fui profesor de informática).
+Cursando la Tecnicatura en Programación en la UTN. Me gusta el código limpio y los sistemas que se pueden mantener.
