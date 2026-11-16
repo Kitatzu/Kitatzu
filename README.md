@@ -36,7 +36,3 @@ Hoy trabajo en **Appsnube**, donde diseño y mantengo apps para Tiendanube: arqu
 </p>
 
 TypeScript · Node.js · NestJS · AWS (Lambda, SQS, SNS, EventBridge, SAM) · DynamoDB · PostgreSQL · Docker · GitHub Actions · React · Python · Go
-
-## Más sobre mí
-
-Cursando la Tecnicatura en Programación en la UTN. Me gusta el código limpio y los sistemas que se pueden mantener.
